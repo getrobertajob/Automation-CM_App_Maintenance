@@ -8,3 +8,13 @@ Windows Batch script to Automate nightly maintenance tasks for the CM App.
 6) Compresses current logs as zip and moving to archive storage with date appended to file name.
 7) Cleans up logs folder.
 8) Sends windows App executable.
+
+
+# Configurable variables
+Date/Time format
+Customer name
+File name
+Quantity of active log files
+App directory
+Batch service enable/disable
+Wait time for App stop
